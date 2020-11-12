@@ -1,4 +1,7 @@
-# microservices-pringboot-kafka
+# microservices-springboot-kafka
+## kafka-docker
+## Deploying Multiple Spring Boot Microservices to Docker
+
 
 ## 1. Build Spring-boot apps
 ```
