@@ -6,10 +6,10 @@
 ## 1. Build Spring-boot apps
 ```
 cd springboot-kafka-consumer
-mvn clean install
+mvn clean install -DskipTests
 cd ..
 cd springboot-kafka-producer
-mvn clean install
+mvn clean install -DskipTests
 ```
 
 ## 2. Docker-compose
